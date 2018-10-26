@@ -2,4 +2,6 @@
 
 Network-On-Chip (NoC)with Forward Error Correction
 
-binary tree topoloty
+Binary tree topology
+
+Asynchronized approach
